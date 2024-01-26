@@ -13,7 +13,7 @@ public class Board extends Object {
 
     @Override
     public String toString() {
-        return "title='" + title;
+        return "title=" + title;
     }
 
 }
